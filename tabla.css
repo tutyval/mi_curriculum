@@ -23,6 +23,15 @@ body {
 	left: 41%;
 	right: 41%;
 }
+.lado {
+	background-color: white;
+	text-align: left;
+}
+.subtitulo {
+	color: red;
+	font-size: 25px;
+	text-align: left;
+}
 .row {
 	clear: both;
 }
@@ -36,8 +45,8 @@ body {
 .col-ms-5,.col-ms-6,.col-ms-7,.col-ms-8,
 .col-ms-9,.col-ms-10,.col-ms-11,.col-ms-12{
 	float: left;
-	font-size: 40px;
-	text-align: center;
+	font-size: 30px;
+	text-align: left;
 
 } 
 @media (max-width: 480px){
